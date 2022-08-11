@@ -6,10 +6,8 @@ const TituloHomeTrabajador = () => {
 
     return (
         <View>
-            
-         
-                    <Text style={styles.tituloSeleccionar}>Home</Text>
-          
+                   <View><Text style={styles.tituloSeleccionar} >Home</Text>
+          </View> 
                  
         </View>
     )
@@ -29,8 +27,6 @@ const styles = StyleSheet.create({
         
     },
     tituloSeleccionar: {
-        left:'80%',
-        top: '-63%',
         color: 'black',
         fontSize: 48,
         marginTop:'20%',

@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://az-ewk.anonymous.fron-conapp.exp.direct",
+  "packagerNgrokUrl": "https://az-ewk.anonymous.fron-conapp.exp.direct",
+  "ngrokPid": 1280,
   "packagerPid": null,
-  "webpackServerPort": null
+  "webpackServerPort": 19006
 }

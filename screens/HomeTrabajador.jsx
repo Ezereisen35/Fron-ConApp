@@ -14,6 +14,7 @@ const HomeTrabajador =({navigation})=>{
         <View style={styles.diseño}>
 
             <TituloHomeTrabajador/>
+            <View style={{borderBottomColor: 'black', borderBottomWidth: 1, width:'100%', marginBottom:'10%', marginTop:'-10%',}}></View>
 
             <BotonSolicitudesDeTrabajoHomeTrabajador/>
 

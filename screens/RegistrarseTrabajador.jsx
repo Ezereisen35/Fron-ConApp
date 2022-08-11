@@ -5,8 +5,8 @@ import fondo from "../assets/fondo.jpg";
 import SelectDropdown from 'react-native-select-dropdown';
 import DropDownPicker from 'react-native-dropdown-picker';
 
-function RegistrarseTrabajador () /*= ({navigation}) =>*/ {
-
+const RegistrarseTrabajador = ({navigation}) => {
+  
 
   const [open, setOpen] = useState(false);
   const [value, setValue] = useState(null);
